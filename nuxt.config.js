@@ -1,7 +1,8 @@
 // this example declares the function at the top of the nuxt.config.js file
 const fs = require('fs').promises;
 const path = require('path');
-const deployPath = '/home/tessa/www/tessapainter.com';
+// const deployPath = '/home/tessa/www/tessapainter.com';
+const deployPath = 'generated';
 const name = 'Tessa Painter';
 
 // Generate RSS FEED

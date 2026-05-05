@@ -20,7 +20,6 @@
     "@fortawesome/vue-fontawesome": "latest-2",
     "@nuxt/content": "^1.5.3",
     "@nuxtjs/feed": "^2.0.0",
-    "canvas": "^2.11.2",
     "cors": "^2.8.5",
     "devicon": "^2.12.0",
     "dotenv": "^9.0.2",
