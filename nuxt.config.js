@@ -2,7 +2,8 @@
 const fs = require('fs').promises;
 const path = require('path');
 // const deployPath = '/home/tessa/www/tessapainter.com';
-const deployPath = 'generated';
+const deployPath = '../florianeagox.github.io' //  'generated';
+
 const name = 'Tessa Painter';
 
 // Generate RSS FEED
@@ -93,7 +94,7 @@ export default {
 			}
 		}
 		],
-		'@nuxtjs/sitemap'
+		// '@nuxtjs/sitemap'
 	],
 	// optimizedImages: {
 	// 	optimizeImages: true
@@ -130,7 +131,7 @@ export default {
 		}
 	},
 	server: {
-		host: 'tessapainter.com'
+		host: process.env.HOST || 'localhost'
 	},
 	generate: {
 		async routes() {

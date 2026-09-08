@@ -1,4 +1,4 @@
-# sethpainter.com
+# tessapainter.com
 
 > The personal website of Tessa Painter
 

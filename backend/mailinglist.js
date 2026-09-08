@@ -7,7 +7,7 @@ dotenv();
 
 export const mailinglist = router.Router();
 
-const db = monk('mongodb://localhost/sethpainter');
+const db = monk('mongodb://localhost:27017/tessapainter');
 
 let transporter = createTransport({
 	service: 'zoho',
@@ -17,7 +17,7 @@ let transporter = createTransport({
 	}
 });
 
-mailinglist.get('/:email', async (req, res) => {
+mailinglist.get('/add/:email', async (req, res) => {
 	if(!/([a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9_-]+)/i.test(req.params.email)) { // Test if the email is valid
 		res.status(400).send('Invalid email address');
 		return;

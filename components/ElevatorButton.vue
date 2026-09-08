@@ -33,7 +33,7 @@ export default {
 		right: 1em;
 		padding: 1em;
 		border: none;
-		/* max-width: 100px; */
+		max-width: 100px;
 		color: var(--main-color);
 		background: var(--main-bkg);
 	}
