@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1789220678",layout:"default",error:a,serverRendered:true,routePath:"\u002Fpoetry\u002FA%20Moment%20In%20Twilight",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"feefa5b9"}}}}(null));
