@@ -1,6 +1,7 @@
 ---
 title: Partying in the Dark
 description: Believe it or not, the blind party too...
+hidden: true
 createdAt: 2025-05-14T21:21:19.000Z
 updatedAt: 2025-05-14T21:21:19.000Z
 ---

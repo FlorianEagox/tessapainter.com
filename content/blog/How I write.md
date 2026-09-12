@@ -1,3 +1,9 @@
+---
+hidden: true
+createdAt: 2021-02-03T04:15:12.000Z
+updatedAt: 2021-02-03T04:15:12.000Z
+---
+
 Much of this writting was influenced by two essays I had to write in highschool called the Litteracy narrative and the  Auto-ethnography. It's essentially a close-reading and analysis of the internal creative process. I had a lot of fun writting it then, and digging it up to revist it has been quite fun as well.
 
 In a lot of ways, I think of my conciousness as a tree or directed graph where every node is the thought or mental staste I couold be in, and I am an index of the current node. I generally have several small thoughts or ideas representend internally by a constant voice, and any numbetr of thoughts could lead me down another path into a different set of thought. It's very easy to go down these thought paths, but often can be quite hard to get back up, especially given the ammount of time I spent thinking of the prevois things or how long ago they were.
