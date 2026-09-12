@@ -25,7 +25,10 @@
 <script>
 export default {
 		async asyncData({ $content }) {
-			return { featuredProjects: (await $content('projects').where({ featured: true }).fetch()).sort((a, b) => a.first ? -1 : 1) };
+			const projects = await $content('projects').where({ featured: true }).fetch();
+			return {
+				featuredProjects: projects.sort((a, b) => (a.order ?? 999) - (b.order ?? 999))
+			};
 		}
 };
 </script>

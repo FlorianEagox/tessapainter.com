@@ -2,7 +2,7 @@
 const fs = require('fs').promises;
 const path = require('path');
 // const deployPath = '/home/tessa/www/tessapainter.com';
-const deployPath = '../florianeagox.github.io' //  'generated';
+const deployPath = 'generated';
 
 const name = 'Tessa Painter';
 
@@ -100,26 +100,10 @@ export default {
 	// 	optimizeImages: true
 	// },
 	modules: [
-		// ['nuxt-fontawesome', {
-		// 	imports: [
-		// 		{
-		// 			set: '@fortawesome/free-solid-svg-icons',
-		// 			icons: ['fas']
-		// 		},
-		// 		{
-		// 			set: '@fortawesome/free-brands-svg-icons',
-		// 			icons: ['fab']
-		// 		},
-		// 		{
-		// 			set: '@fortawesome/free-regular-svg-icons',
-		// 			icons: ['far']
-		// 		}
-		// 	]
-		// }],
 		['@nuxt/content', {
-			liveEdit: true
+			liveEdit: false
 		}],
-		'@nuxtjs/feed'
+		'@nuxtjs/feed',
 	],
 	sitemap: {
 		hostname: 'https://tessapainter.com',

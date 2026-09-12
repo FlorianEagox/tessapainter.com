@@ -2,6 +2,8 @@
 title: My experiences with music
 categories: personal
 hidden: true
+createdAt: 2021-02-03T10:15:18.000Z
+updatedAt: 2021-06-07T19:00:46.000Z
 ---
 
 ## Playing Music

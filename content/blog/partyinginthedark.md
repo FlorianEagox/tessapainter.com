@@ -1,7 +1,8 @@
 ---
 title: Partying in the Dark
 description: Believe it or not, the blind party too...
-createdAt: 2025-05-14
+createdAt: 2025-05-14T21:21:19.000Z
+updatedAt: 2025-05-14T21:21:19.000Z
 ---
 
 I've made a playlist that captures the energy of the article you can listen to while you read:

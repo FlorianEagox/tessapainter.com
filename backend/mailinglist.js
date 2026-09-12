@@ -12,7 +12,7 @@ const db = monk('mongodb://localhost:27017/tessapainter');
 let transporter = createTransport({
 	service: 'zoho',
 	auth: {
-		user: 'seth@sethpainter.com',
+		user: 'tessa@tessapainter.com',
 		pass: process.env.EMAIL_PASS
 	}
 });
@@ -40,7 +40,7 @@ mailinglist.get('/remove/:email', async (req, res) => {
 	const mailing_list = db.get('mailing_list');
 	const removed = await mailing_list.remove({email: req.params.email});
 	db.close();
-	res.redirect(`https://sethpainter.com/leavemailinglist${removed.deletedCount ? '?email=' + req.params.email : ''}`);
+	res.redirect(`https://tessapainter.com/leavemailinglist${removed.deletedCount ? '?email=' + req.params.email : ''}`);
 });
 
 async function sendWelcomeEmail(email) {

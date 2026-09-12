@@ -4,6 +4,8 @@ description: A list of striking things I've noticed about myself as a visually i
 featured: true
 categories: blindness
 medium: https://medium.com/@sethingtonsoftware/things-i-notice-as-a-visually-impaired-person-a-living-list-1790d9cae01c
+createdAt: 2021-02-03T10:15:18.000Z
+updatedAt: 2025-01-30T23:42:49.000Z
 ---
 
 My whole worldview has been shaped by my visual impairment, and as I've become more self-aware and analytical over the years, I've noticed unique things about myself in relation to my visual impairment. I've compiled a list of many of the striking things I've noticed as part of the visually impaired experience. This is by no means an exhaustive list, and I'll be adding to it as I come up with more interesting things. Of course, every visually impaired person's experience is different, so not everything I've said here is true for all VI folks. If you're VI, feel free to contact me with some interesting things you've noticed, about yourself and maybe I"ll put them here. I will also be reaching out to fellow members of the VI community and seeing if they have any unique personal experiences they'd like to share.

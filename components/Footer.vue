@@ -26,7 +26,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="mailto: seth@sethpainter.com">
+							<a href="mailto: tessa@tessapainter.com">
 								<font-awesome-icon :icon="['fas', 'envelope']" />
 							</a>
 						</li>

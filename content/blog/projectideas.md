@@ -3,6 +3,8 @@ title: Unique Programming Project Ideas You Can Make
 description: Developers are always in search of new project ideas, and I'm always coming up with new ones I'll never have the time to finish.
 categories: programming
 featured: true
+createdAt: 2021-02-03T10:15:18.000Z
+updatedAt: 2021-07-14T02:46:39.000Z
 ---
 
 New project ideas hit me in the face every day and pull my attention towards things I may never get around to building. There are several blog posts or articles about this topic, but most of them are usually quite boring, uninspired, or are just geared at making you employable. As I've said before, my workflow is akin to a stove running out of backburners with pots boiling over, I've got lots of projects, some in progress, some dead, and many that I'll never have time to create myself. Some are just extra features to add to existing services, some are simple utilities, and others are completely independent projects. I consider some of them to be quite good, and if I ever do get around to building one, it'll go from this onto the projects page. These may not get you a job or make you rich, but they are interesting. If you do take one of these ideas and run with it, it would be super epic if you'd give me a shoutout for the idea.

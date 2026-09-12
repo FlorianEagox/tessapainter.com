@@ -1,5 +1,7 @@
 ---
 title: Love Like the Movies, But Not for Me
+createdAt: 2025-05-14T21:21:19.000Z
+updatedAt: 2025-05-14T21:21:19.000Z
 ---
 
 Well yes I must confess I want to love like I've seen in all these movies

@@ -5,6 +5,8 @@ categories:
   - tech
 description: Assistive Technology companies charge highway-robbery for sub-par, products, but I found a clever solution to make a High-Quality CCTV on the Cheap
 mainImg: soldering.png
+createdAt: 2021-10-05T20:10:03.000Z
+updatedAt: 2022-09-18T01:26:23.000Z
 ---
 ## The Challenges of Magnification
 Magnifiers are some of the most essential tools for VI folks. There are several different designs suited for a variety of uses, but one of the main challenges of designing a useful magnification device is positioning. It has to be both comfortable and simultaneously out of the way enough to be useful. One solution to the problem of magnifiers is to use cameras and a monitor to make a device called a CCTV. These are often desk-mounted or sometimes the size of a small tablet. They have a camera either mounted to an XY table or free-floating on an adjustable angle arm with several settings to adjust zoom, color, contrast, and other image properties.

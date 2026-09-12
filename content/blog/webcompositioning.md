@@ -3,6 +3,8 @@ title: How to Literally Rip your Website in Half!
 categories:
 	- programming
 description: A guide to creating unique transition and graphical effects with HTML2Canvas, CSS animation and Javascript image composition.
+createdAt: 2021-10-05T20:10:03.000Z
+updatedAt: 2021-10-06T05:54:36.000Z
 ---
 
 I love websites with easer eggs, and when building this one, I knew I had to include something great. This site is home to my crowning achievement in web development. If you search around, you'll find it, but for those who can't, give the triangle logo a double click!

@@ -1,5 +1,7 @@
 ---
 title: Stratageies for improving your cable management
+createdAt: 2021-02-03T10:15:18.000Z
+updatedAt: 2024-06-05T21:21:26.000Z
 ---
 
 Up until this point in my life, I've lived as the queen spider, bound in an ever-weaving web of cables. Wires spanning all around my desk and often all across my room. However, I recenetly recieved the most amazing Christmas gift. I got oa brand new motorized standing desk. While this is great for my health and posture for reasons discussed [here](/blog/justVIthings), it also gave me the opportunity; to move away from the inbuilt wall setup I'd been using for years which provided hardly any flexibility or configurability.

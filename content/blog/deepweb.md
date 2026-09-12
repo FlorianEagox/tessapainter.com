@@ -3,6 +3,8 @@ title: How DarkNet websites are pushing the limits of Web Development
 description: Bored of modern web-dev? You might need to go a little deeper than a new JS framework.
 categories: technology
 # medium: https://medium.com/@sethingtonsoftware/things-i-notice-as-a-visually-impaired-person-a-living-list-1790d9cae01c
+createdAt: 2024-06-05T21:21:26.000Z
+updatedAt: 2024-06-05T21:21:26.000Z
 ---
 
 If you've ever found yourself tired with the endless permutations of rendering hypertext modern devs love to serve out as the bold, "innovative" framework of the month, you're not alone. Although in many corners of the web, things seem either stagnant or massively overcomplicated, there's one place that has embraced its minimalistic constraints and continues to pioneer new safer and intriguing approaches to problems like phishing, authentication, captchas, and rock-solid OPSEC. All despite the major technological limitations incredible privacy imposes on the seedy underbelly of the deep web.

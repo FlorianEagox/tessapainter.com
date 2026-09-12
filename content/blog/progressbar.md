@@ -2,6 +2,8 @@
 title: Make a simple, lightweight progress bar with Fetch and a single request.
 description: A tutorial about making a simple progress bar with Express that requires no additional server infrastructure.
 categories: programming
+createdAt: 2021-08-02T11:02:11.000Z
+updatedAt: 2023-10-06T20:42:32.000Z
 ---
 
 ## [Ttl;dr Show me The Code](#implementation)

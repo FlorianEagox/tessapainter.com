@@ -2,8 +2,8 @@
 name: Contribeautiful
 description:  A webapp to generate custom GitHub contribution history! 
 image: contribeautiful.svg
-access: https://sethpainter.com/contribeautiful
-source: https://github.com/TheFoxarmy/contribeautiful
+access: https://contribeautiful.tessapainter.com/
+source: https://github.com/FlorianEagox/contribeautiful
 featured: true
 appendReadme: true
 technologies:
@@ -14,6 +14,8 @@ technologies:
   - mongodb
   - html5
   - css3
+createdAt: 2021-08-02T11:02:11.000Z
+updatedAt: 2021-08-10T01:23:32.000Z
 ---
 
 
@@ -23,7 +25,7 @@ A vue & express webapp to generate custom GitHub contribution history!
 
 ![Project Status: Done](https://img.shields.io/badge/Project%20Status-Done-limegreen)
 ## Running live at
-https://sethpainter.com/contribeautiful
+https://contribeautiful.tessapainter.com/
 
 !(/images/projects/contribeautiful-screenshot.png)[Screenshot of Contribeautiful]
 

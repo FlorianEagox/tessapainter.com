@@ -1,6 +1,7 @@
 ---
 title: Wooly Skin
-createdAt: 2025-1-1
+createdAt: 2025-05-14T21:21:19.000Z
+updatedAt: 2025-05-14T21:21:19.000Z
 ---
 
 Go head and just judge me

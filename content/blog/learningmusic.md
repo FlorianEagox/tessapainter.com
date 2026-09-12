@@ -1,5 +1,7 @@
 ---
 title: Learning to become a musican
+createdAt: 2025-05-14T21:21:19.000Z
+updatedAt: 2025-05-14T21:21:19.000Z
 ---
 
 Music has always been a part of my life, but recently, I've decided it ought to be more of a priority. In many ways, I think I've begun to imporve at in by leaps and bounds in ways I hadn't before.

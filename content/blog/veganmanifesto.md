@@ -1,6 +1,8 @@
 ---
 title: A Pro-Vegan Rant on the State of the Vegan Community
 description: A myriad of opinions on Veganism and how the vegan community can expand its reach and efficacy
+createdAt: 2022-09-18T01:26:23.000Z
+updatedAt: 2022-09-18T01:26:23.000Z
 ---
 
 I'm going to go into this article under the presumption that Veganism is a positive perscription for society. I'm won't miander about animal rights, the enviorment, health, or any other reasons one should consider Veganism. However, there are some major issues with the community vegans cultivate and the general social understanding of veganism.

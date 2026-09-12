@@ -1,5 +1,10 @@
 <template>
-	<button v-show="visible" id="elevator" ref="elevator" class="base-border drop-shadow" v-scroll-to=" pageTitle ? '.title' : 'body'">
+	<button
+		v-show="visible"
+		id="elevator" class="base-border drop-shadow" 
+		ref="elevator"
+		v-scroll-to="pageTitle ? '.title' : 'body'"
+		@click="ding()">
 		<font-awesome-icon :icon="['fas', 'chevron-up']" size="lg" />
 	</button>
 </template>
@@ -11,9 +16,11 @@ export default {
 	},
 	mounted() {
 		this.pageTitle = Boolean(document.querySelector('.title'));
-		document.addEventListener('scroll', () =>
-			this.visible = (window.scrollY > window.innerHeight)
-		);
+		this.btnSound = new Audio('/audio/sfx/elevator.mp3')
+		document.addEventListener('scroll', () => {
+			this.visible = (window.scrollY > window.innerHeight);
+			this.btnSound.currentTime = 0
+		});
 		window.addEventListener('resize', this.setBuffer);
 		this.setBuffer();
 	},
@@ -21,6 +28,9 @@ export default {
 		setBuffer() {
 			if(document.querySelector('article'))
 				this.$refs.elevator.style.left = window.innerWidth >= 1750 ? document.querySelector('article').getBoundingClientRect().right + 32 + 'px' : 'revert'
+		},
+		ding() {
+			this.btnSound.play();
 		}
 	}
 }

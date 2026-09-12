@@ -5,10 +5,12 @@ source: https://github.com/FlorianEagox/Weeablind
 access: https://github.com/FlorianEagox/Weeablind/releases
 image: weeablind.webp
 featured: true
-first: true
+order: 0
 appendReadme: true
 technologies:
   - python
+createdAt: 2024-05-14T19:41:09.000Z
+updatedAt: 2024-05-14T19:41:09.000Z
 ---
 
 This is my pride and joy! I've been working on it for the better part of a year and extremely excited to bring a minimal binary or web release to everyone!

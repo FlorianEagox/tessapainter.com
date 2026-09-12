@@ -1,15 +1,17 @@
 ---
-name: Close Quarters
-description: A pirate game created for LudumDare42
-image: closequarters.png
-access: https://ldjam.com/events/ludum-dare/42/close-quarters
-source: https://github.com/TheFoxarmy/CloseQuarters
+name: Habitat
+description: A social habit tracker
+image: habitat.png
+access: https://habitat.tessapainter.com/
+source: https://github.com/FlorianEagox/habitat/
 technologies:
-  - java
-  - processing
-featured: false
-createdAt: 2020-12-06T04:06:18.000Z
-updatedAt: 2021-09-30T18:47:45.000Z
+  - graphql-plain
+  - nuxtjs
+  - mongodb
+featured: true
+order: 1
+createdAt: 2026-12-06T04:06:18.000Z
+updatedAt: 2026-09-30T18:47:45.000Z
 ---
 
 This was a game created in a single weekend, 48 hours, with my friends [Aidan Lovelace](https://aidanlovelace.com") and Kenny Pratt.

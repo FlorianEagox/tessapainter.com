@@ -11,7 +11,8 @@
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "server": "node backend/server",
-    "thumbnails": "node --experimental-json-modules utils/GenerateThumbnails"
+    "thumbnails": "node --experimental-json-modules utils/GenerateThumbnails",
+    "update-content-dates": "node scripts/update-content-dates.js"
   },
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^5.15.1",

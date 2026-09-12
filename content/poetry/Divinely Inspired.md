@@ -1,7 +1,6 @@
 ---
-title: Devinely Inspired
-createdAt: 2025-05-14T21:21:19.000Z
-updatedAt: 2025-05-14T21:21:19.000Z
+title: Divinely Inspired
+hidden: true
 ---
 
 I made a trade with God 

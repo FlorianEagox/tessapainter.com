@@ -2,6 +2,8 @@
 title: The Existensial Horror of the New Oral B Tooth Brush
 hidden: true
 categories: tech
+createdAt: 2022-09-18T01:26:23.000Z
+updatedAt: 2022-09-18T01:26:23.000Z
 ---
 
 We may not think much about it, but without much context, tooth-brushing seems kind of weird. You take some slimey, green, minty paste and rub it up and down the exposed bits of your skeleton. 

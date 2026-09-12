@@ -1,5 +1,7 @@
 ---
 title: Cheating in TF2 Sonnet
+createdAt: 2025-05-14T21:21:19.000Z
+updatedAt: 2025-05-14T21:21:19.000Z
 ---
 
 Trapped back in that same place

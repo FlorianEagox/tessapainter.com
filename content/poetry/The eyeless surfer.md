@@ -1,5 +1,7 @@
 ---
 title: The Eyeless Surfer
+createdAt: 2025-05-14T21:21:19.000Z
+updatedAt: 2025-05-14T21:21:19.000Z
 ---
 
 You wish you had my wisdom 

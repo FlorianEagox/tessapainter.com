@@ -1,6 +1,7 @@
 ---
 title: So you wanna write a tech blog?
-createdAt: 2020-11-25T18:17:17.061Z
+createdAt: 2021-02-03T10:15:18.000Z
+updatedAt: 2022-09-18T01:26:23.000Z
 ---
 
 Well, here we are, issue (article? Page? (I still don't know what to call these things)) number one! The easy part of setting this place up is done. Now I've got a fully functioning CMS enviorment for writting. It's time to swallow that icky pit of fear and insecurity deep in my stomach and get to cranking out some bangers! Here I'm gonna share all my biggest ideas, things I want to teach, or just personal stories and self-reflections I find interesting. The topics will most likely be centered around programming, technology, blindness / visual imparement, myself and life experiences, and anything else I have a lot to say about.
