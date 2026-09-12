@@ -1,7 +1,7 @@
 ---
 title: How DarkNet websites are pushing the limits of Web Development
 description: Bored of modern web-dev? You might need to go a little deeper than a new JS framework.
-categories: technology
+categories: tech
 # medium: https://medium.com/@sethingtonsoftware/things-i-notice-as-a-visually-impaired-person-a-living-list-1790d9cae01c
 createdAt: 2024-06-05T21:21:26.000Z
 updatedAt: 2024-06-05T21:21:26.000Z
