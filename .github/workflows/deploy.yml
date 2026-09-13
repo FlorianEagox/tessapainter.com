@@ -58,6 +58,9 @@ jobs:
       - name: Install dependencies
         run: bun install --frozen-lockfile
 
+      - name: Generate thumbnails
+        run: bun run thumbnails
+
       - name: Generate Nuxt static site
         run: bun run generate
 
